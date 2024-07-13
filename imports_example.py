@@ -4,6 +4,8 @@ from datetime import date, datetime
 
 import useful_functionality
 
+import colorama
+
 print(f'From imports_example.py {__name__}')
 
 # print(useful_functionality.return_one())
